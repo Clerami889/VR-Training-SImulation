@@ -1,0 +1,38 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Addressables / cache
+[Aa]ddressables*/**/bin/
+[Aa]ddressables*/**/obj/
+
+# Auto-generated
+/Assets/Plugins/Editor/JetBrains*
+/Assets/StreamingAssets/aa/**
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Plastic SCM (Unity Version Control)
+.plastic/
+*.plastic*

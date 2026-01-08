@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\My project\\Library\\PackageCache\\com.unity.collab-proxy@ab839cc7d2ad\\Editor\\UVCSWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.collab-proxy@ab839cc7d2ad\\Editor\\UVCSWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\user\\my project\\assets\\scripts\\mugsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mugsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\lightswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lightswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\liquidvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\liquidvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\drinktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drinktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\vrtaskpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vrtaskpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\taskline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\taskline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\mugcontents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mugcontents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\icedispenser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\icedispenser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SCript Jaga\\MugContents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\mugfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mugfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\trashcan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trashcan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\pour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\vrboundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vrboundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\drinktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drinktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\liquidcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\liquidcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\User\\My project\\assets\\scripts\\drinkscheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drinkscheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DrinksCheck.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\DrinksCheck.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DrinksCheck.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\DrinksCheck.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DrinksCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:09:06.534Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pour.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\Pour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pour.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\Pour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pour.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAywBMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:55:48.767Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LightSwitch.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\LightSwitch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LightSwitch.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\LightSwitch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LightSwitch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:41:24.529Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UVCSWindow.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Library\\PackageCache\\com.unity.collab-proxy@ab839cc7d2ad\\Editor\\UVCSWindow.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.collab-proxy@ab839cc7d2ad\\Editor\\UVCSWindow.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Library\\PackageCache\\com.unity.collab-proxy@ab839cc7d2ad\\Editor\\UVCSWindow.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.collab-proxy@ab839cc7d2ad\\Editor\\UVCSWindow.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAxwIAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:58:47.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MugContents.cs",
+              "DocumentMoniker": "E:\\SCript Jaga\\MugContents.cs",
+              "ToolTip": "E:\\SCript Jaga\\MugContents.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAiwIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T00:28:39.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrashCan.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\TrashCan.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrashCan.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\TrashCan.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrashCan.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T19:43:27.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskLine.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\TaskLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TaskLine.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\TaskLine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TaskLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:09:52.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VRTaskPanel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\VRTaskPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VRTaskPanel.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\VRTaskPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VRTaskPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:40:16.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\TaskManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\TaskManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TaskManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:33:49.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VrBoundary.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\VrBoundary.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VrBoundary.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\VrBoundary.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VrBoundary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:18:15.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MugSocket.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\MugSocket.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MugSocket.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\MugSocket.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MugSocket.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAA0wN8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T17:35:57.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MugFill.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\MugFill.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MugFill.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\MugFill.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MugFill.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAywOAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:29:01.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IceDispenser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\IceDispenser.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IceDispenser.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\IceDispenser.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IceDispenser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:41:40.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:50:43.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MugContents.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\MugContents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MugContents.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\MugContents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MugContents.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAA0wAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:49:58.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LiquidComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\LiquidComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LiquidComponent.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\LiquidComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LiquidComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:13:12.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawner.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADwvx4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:47:05.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LiquidVisual.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\LiquidVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LiquidVisual.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\LiquidVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LiquidVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:20:27.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DrinkType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\DrinkType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DrinkType.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\DrinkType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DrinkType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:48:37.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DrinkTask.cs",
+              "DocumentMoniker": "C:\\Users\\User\\My project\\Assets\\Scripts\\DrinkTask.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DrinkTask.cs",
+              "ToolTip": "C:\\Users\\User\\My project\\Assets\\Scripts\\DrinkTask.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DrinkTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:30:00.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
