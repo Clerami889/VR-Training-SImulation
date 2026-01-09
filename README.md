@@ -9,8 +9,8 @@
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Built With](#built-with)
-
-
+- [Screenshots](#Screenshots)
+  
 ---
 
 ## 📌 About
@@ -28,3 +28,6 @@ A VR Simulation build to help train new worker for a mixin and following orders 
 - Unity - Game Engine
 - Blender - 3D Assets
 
+## 📷 Screenshots
+
+![Gameplay Screenshot](screenshots/gameplay.png)
