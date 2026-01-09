@@ -30,4 +30,4 @@ A VR Simulation build to help train new worker for a mixin and following orders 
 
 ## 📷 Screenshots
 
-![Gameplay Screenshot](screenshots/gameplay.png)
+![Gameplay Screenshot](Screenshots/FrontDesk.png)
