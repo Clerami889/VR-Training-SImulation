@@ -4,11 +4,11 @@
 - Active scene:
   - Name: Bar
   - Tags:
-    - Untagged, Respawn, Finish, EditorOnly, MainCamera, Player, GameController
+    - Untagged, Respawn, Finish, EditorOnly, MainCamera, Player, GameController, Anchor, PourPoint, Mug, Score, WaterPourPoint, PlayArea
   - Layers:
-    - Default, TransparentFX, Ignore Raycast, Water, UI
+    - Default, TransparentFX, Ignore Raycast, Water, UI, PourPoint
 - Active game object:
-  - Name: Plane
+  - Name: TaskManager
   - Tag: Untagged
   - Layer: Default
 <!-- UNITY CODE ASSIST INSTRUCTIONS END -->

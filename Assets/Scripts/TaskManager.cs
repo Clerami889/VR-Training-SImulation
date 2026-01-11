@@ -16,6 +16,10 @@ public class TaskManager : MonoBehaviour
     public event Action<List<DrinkTask>> OnTasksCreated;
     public event Action<DrinkTask> OnTaskUpdated;
 
+    [SerializeField] private AudioSource audioSource;
+
+    [SerializeField] private AudioClip success;
+
     private System.Random rng;
 
     private void Awake()
@@ -74,6 +78,8 @@ public class TaskManager : MonoBehaviour
                 t.amountCompleted = Mathf.Min(t.amountRequired, t.amountCompleted + units);
                 Debug.Log($"TaskManager: updated {t.drink} ({t.temperature}) -> {t.amountCompleted}/{t.amountRequired}");
                 OnTaskUpdated?.Invoke(t);
+
+                audioSource.PlayOneShot(success);
                 return;
             }
         }
