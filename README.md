@@ -6,8 +6,6 @@
 ## 📖 Table of Contents
 - [About](#about)
 - [Features](#features)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Built With](#built-with)
 - [Screenshots](#Screenshots)
   
